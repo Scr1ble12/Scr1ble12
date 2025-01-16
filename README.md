@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm currently working on building a portfolio website and figuring out out github works!
 
 <!--
 **Scr1ble12/Scr1ble12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
