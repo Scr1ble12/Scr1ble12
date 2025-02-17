@@ -1,4 +1,4 @@
-## Hey, I'm currently working on building an App. Also working on data analysis, web development, circuit building and CAD design. Always willing to collab.
+## i want to try ruby
 
 <!--
 **Scr1ble12/Scr1ble12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
